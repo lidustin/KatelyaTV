@@ -27,6 +27,7 @@ NEXT_PUBLIC_SITE_DESCRIPTION = "高性能影视播放平台"
 NEXTAUTH_URL = "https://tv.katelya.eu.org"
 USERNAME = "dustin"
 AUTH_PASSWORD = "Wcdma@186"
+NEXT_PUBLIC_ENABLE_REGISTER=true
 IMAGE_PROXY_ENABLED = "true"
 CACHE_TTL = "3600"
 CORS_ORIGIN = "*"
